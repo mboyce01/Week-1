@@ -29,6 +29,11 @@ a{
     text-align: center;
 }
 
+
+h1{
+	font-size: 200%;
+}
+
 h4{
 	padding-left: 10px;
 	padding-right: 10px;
@@ -229,18 +234,7 @@ footer{
 	padding: 40px 0;
 }
 /***Useful Code****/
-.hidden {
-	display: none;
-}
-.pull-left {
-	float: left;
-}
-.pull-right {
-	float: right;
-}
-.inverse {
-	color: #fff;
-}
+
 .clearfix:before,
 .clearfix:after {
   content: "";
